@@ -1,2 +1,4 @@
 # Lovelace-editorconfig
-.editorconfig for Lovelace Projects
+.editorconfig template for Lovelace Projects
+
+
