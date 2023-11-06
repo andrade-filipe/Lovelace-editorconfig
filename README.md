@@ -2,7 +2,6 @@
 <p>.editorconfig template for Lovelace Projects</p>
 
 <p>root = true</p>
-<br>
 <p>[*]</p>
 <p>charset = utf-8</p>
 <p>end_of_line = lf #padrão unix pra quebra de linha</p>
